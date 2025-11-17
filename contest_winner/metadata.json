@@ -1,0 +1,12 @@
+{
+  "artworks": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/Andosdev1/peaks-of-yore-art-public/refs/heads/main/contest_winner/artcontest_winner.jpg",
+      "textUrl": "https://raw.githubusercontent.com/Andosdev1/peaks-of-yore-art-public/refs/heads/main/contest_winner/artpiece.txt"
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/Andosdev1/peaks-of-yore-art-public/refs/heads/main/contest_winner/artcontest_prev_winner.jpg",
+      "textUrl": "https://raw.githubusercontent.com/Andosdev1/peaks-of-yore-art-public/refs/heads/main/contest_winner/artpiece_1.txt"
+    }
+  ]
+}
